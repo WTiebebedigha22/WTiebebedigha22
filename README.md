@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WTiebebedigha22
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning js, c+, css, java and html.
+- 🌱 I’m currently learning js, c+, c#, react.js, css, java and html.
 - 💞️ I’m looking to collaborate on my first video game
 - 📫 How to reach me +2349063999255 only on whatsapp
 
