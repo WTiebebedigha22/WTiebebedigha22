@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Java, C#, React, NodeJS & MongoDB<br>🎯 Goals: First 2d game soon<br>🎲 Fun fact: skilled artist, ambidextrious.</p>
+<p align="left">✨ Creating bugs since 2021<br>Intermidiate code wrecker and blockhead.<br>📚 I'm currently learning Java, C#, React, NodeJS & MongoDB<br>🎯 Goals: First 2d game soon<br>🎲 Fun fact: skilled artist, ambidextrious.</p>
 
 ###
 
