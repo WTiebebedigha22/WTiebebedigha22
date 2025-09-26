@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>☣️Intermidiate code wrecker and blockhead.<br>📚 I'm currently learning Java, C#, React, NodeJS & MongoDB<br>🎯 Goals: First 2d game soon<br>🎲 Fun fact: skilled artist, ambidextrious.</p>
+<p align="left">✨ Creating bugs since 2022<br>☣️Intermidiate code wrecker and blockhead.<br>📚 I'm currently learning Java, C#, React, NodeJS & MongoDB<br>🎯 Goals: First 2d game soon<br>🎲 Fun fact: skilled artist, ambidextrious.</p>
 
 ###
 
@@ -40,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
