@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Ware Tiebebedigha and I'm a Fullstack Web Dev and a Game Dev.</p>
+<p align="left">My name is Ware Tiebebedigha and I'm a Fullstack Game Developer.</p>
 
 ###
 
